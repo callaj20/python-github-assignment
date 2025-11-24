@@ -6,7 +6,7 @@ It also includes a single error controlling and avoiding invalid output.
 
 #How to Run
 python app.py
-#0r
+#Or
 python3 app.py
 
 #Sample Output
